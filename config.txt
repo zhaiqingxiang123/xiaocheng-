@@ -38,7 +38,7 @@
 "API_WAXY":"9ff59fc03b90d5ef92d42ae6ed90b8b7",
 
 # 舔狗日记
-#"API_TGRJ":"请替换为自己申请的 API接口",
+"API_TGRJ":"9ff59fc03b90d5ef92d42ae6ed90b8b7",
 # 土味情话
 "API_TWQH":"9ff59fc03b90d5ef92d42ae6ed90b8b7"
 }
